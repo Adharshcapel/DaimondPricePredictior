@@ -1,1 +1,4 @@
 venv/
+build/
+
+daimond_rate_predicition.egg-info
