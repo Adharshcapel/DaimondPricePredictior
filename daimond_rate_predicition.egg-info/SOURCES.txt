@@ -1,7 +1,0 @@
-setup.py
-daimond_rate_predicition.egg-info/PKG-INFO
-daimond_rate_predicition.egg-info/SOURCES.txt
-daimond_rate_predicition.egg-info/dependency_links.txt
-daimond_rate_predicition.egg-info/requires.txt
-daimond_rate_predicition.egg-info/top_level.txt
-src/__init__.py
